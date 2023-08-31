@@ -95,6 +95,11 @@ button {
   color: #434455;
 }
 
+.address-list {
+  display: flex;
+  gap: 40px;
+}
+
 .number-mail-link:hover,
 .number-mail-link:focus {
   color: #404bbf;
