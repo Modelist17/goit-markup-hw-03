@@ -30,6 +30,24 @@ img {
 
 } 
 
+.page-navigation {
+  display: flex;
+  align-items: center; 
+}
+
+.logotype {
+  margin-right: 76px;
+}
+
+.menu {
+  display: flex;
+  gap: 40px;
+} 
+
+.menu-item {
+  padding: 24px 0;
+}
+
 .list {
   list-style-type: none;
 }
