@@ -14,8 +14,15 @@ img {
   display: block;
 }
 
-
 /*  PAGE HEADER */
+.page-header {
+  border-bottom: 1px solid #e7e9fc;
+}
+
+.container-header {
+  display: flex;
+}
+
 .list {
   list-style-type: none;
 }
