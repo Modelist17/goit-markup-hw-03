@@ -27,12 +27,11 @@ img {
   width: 1158px;
   margin: 0 auto;
   padding: 0 15px;
-
-} 
+}
 
 .page-navigation {
   display: flex;
-  align-items: center; 
+  align-items: center;
 }
 
 .logotype {
@@ -42,8 +41,7 @@ img {
 .menu {
   display: flex;
   gap: 40px;
-} 
-
+}
 
 .list {
   list-style-type: none;
@@ -112,7 +110,6 @@ button {
 .first-section {
   background-color: #2e2f42;
   padding: 188px 0;
-
 }
 
 .caption-one {
@@ -134,7 +131,7 @@ button {
   min-width: 169px;
   height: 56px;
   border: none;
-  border-radius: 4px; 
+  border-radius: 4px;
   cursor: pointer;
 }
 
@@ -148,6 +145,14 @@ button {
   background-color: #404bbf;
 }
 /* section 2 */
+.second-section {
+  padding: 120px 0;
+}
+
+.visually-hidden {
+  
+}
+
 .caption-third {
   font-weight: 500;
   font-size: 20px;
