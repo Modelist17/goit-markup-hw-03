@@ -93,7 +93,7 @@ button {
   color: #434455;
 }
 
-.number-mail list {
+.number-mail {
   display: flex;
   gap: 40px;
 }
