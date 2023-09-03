@@ -156,6 +156,7 @@ button {
 .second-section-ul {
   display: flex;
   gap: 24px;
+  width: calc((100% - 72px) / 4);
 }
 
 .caption-third {
@@ -173,11 +174,6 @@ button {
 .paragraph-second {
   line-height: 1.5;
   letter-spacing: 0.02em;
-  
-}
-
-.paragraph-second {
-  width: calc((100% - 72px) / 4);
 }
 
 /* section 3 */
