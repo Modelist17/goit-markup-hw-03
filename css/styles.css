@@ -167,13 +167,13 @@ button {
 }
 
 .caption-third {
-  width: calc((100% - 72px) / 4);
   margin-bottom: 8px;
 }
 
 .paragraph-second {
   line-height: 1.5;
   letter-spacing: 0.02em;
+  width: calc((100% - 72px) / 4);
 }
 /* section 3 */
 .third-section {
