@@ -206,7 +206,7 @@ button {
   width: calc((100% - 72px) / 4);
 }
 /* container for the name and the job position */
-.container {
+.container-team {
   padding: 32px 0;
 }
 
