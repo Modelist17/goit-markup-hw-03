@@ -4,7 +4,7 @@
 
 ul {
   list-style: none;
-  margin: 0; 
+  margin: 0;
   padding-left: 0;
 }
 
@@ -170,7 +170,7 @@ button {
 }
 
 .li-class-section-two {
-  width: calc((100% - 72px)/4);
+  width: calc((100% - 72px) / 4);
 }
 
 .caption-third {
@@ -199,7 +199,6 @@ button {
 .our-team-pics {
   background-color: #ffffff;
   border-radius: 0px 0px 4px 4px;
-
 }
 
 .our-team-pics {
@@ -245,6 +244,11 @@ button {
 }
 
 /* section 4 */
+.fourth-section {
+  padding-top: 120px;
+  padding-bottom: 120px;
+}
+
 /* (h2) */
 .section-four-caption {
   font-size: 36px;
@@ -253,6 +257,14 @@ button {
   letter-spacing: 0.02em;
   text-transform: capitalize;
   color: #2e2f42;
+  margin-bottom: 72px;
+}
+
+.section-four-ul {
+  display: flex;
+  flex-wrap: wrap;
+  column-gap: 24px;
+  row-gap: 48px;
 }
 
 .bank-app-paragraph {
